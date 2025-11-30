@@ -1,0 +1,8 @@
+{
+  "name": "WeTutor - 微信风格家教小程序",
+  "description": "连接家长与家教的微信小程序风格应用。支持角色切换（家长/老师）、需求发布及 AI 辅助文案优化。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
